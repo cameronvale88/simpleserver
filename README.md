@@ -8,3 +8,5 @@ In order to run the programs, run the server proogram from the computer you'd li
 On the client computer, type "python3 simplerserver_client.py" and the client should automatically recieve the file. 
 
 Remember to change firewall rules appropriately.
+
+## NOTE: This program is designed to work only on lan.
